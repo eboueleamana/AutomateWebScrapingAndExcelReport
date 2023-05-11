@@ -1,0 +1,3 @@
+- Il faut d'abord installer pyinstaller 
+- Convertir le fichier python en executable:
+	pyinstaller --onefile automate_the_news.py
